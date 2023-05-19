@@ -6,3 +6,8 @@ h1 {
   font-family: Poppins, Arial, Helvetica, sans-serif;
   font-weight: 600;
 }
+
+.navbar {
+  display: flex;
+  justify-content: center;
+}
