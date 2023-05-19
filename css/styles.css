@@ -11,3 +11,7 @@ h1 {
   display: flex;
   justify-content: center;
 }
+
+.about-me {
+  margin: 10px 200px;
+}
