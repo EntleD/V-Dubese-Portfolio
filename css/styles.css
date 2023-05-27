@@ -34,11 +34,14 @@ h5 {
 
 .page-footer {
   background-color: black;
-  margin: 0 auto;
   color: white;
   font-size: 13px;
+  padding: 5px 0px;
 }
 
+.coded-by {
+  font-size: 15px;
+}
 .about-me {
   margin: 10px 200px;
   background: radial-gradient(
